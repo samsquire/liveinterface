@@ -17,7 +17,7 @@ Now imagine you had a more complex list such as a todo list or a list of product
 
 ![writing a review?](https://raw.github.com/samsquire/liveinterface/master/live2-a.png "writing a review")
 
-The text in this list is but a small subset of data about the product. In the context of my review, this is the price, my rating and a review. What if you could tell the computer what something was so it could be aware of your data model?
+The text in this list is but a small subset of data about the product. In the context of my review, this is the price, my rating and a review. What if you could make the document be aware of your data model?
 
 You are repeatedly asked what something is.
 
