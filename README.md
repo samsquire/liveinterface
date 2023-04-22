@@ -1,6 +1,8 @@
 Living Documents
 ===
-Some of these features are real and some are yet to be implemented.
+Some of these features are real (https://github.com/samsquire/live-interface) and some are yet to be implemented.
+
+See the prototypes directory at https://github.com/samsquire/live-interface
 
 
 Imagine you have an unassuming list.
